@@ -8,6 +8,7 @@ Tic-Tac-Toe,
 Snake-Game,
 Connect Four,
 Tetris
+
 The Task was great. The time given was the perfect time to complete it. I enjoyed it very much.
 
 ## Task 2
