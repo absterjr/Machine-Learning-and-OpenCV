@@ -2,12 +2,12 @@
 This README.md is for TaskPhase at VISION
 
 ## Task 1
-- Finish a Crash Course on Python [https://coursera.org/share/87595f4893e2bc176feb519b54758b0c]
+- Finish a Crash Course on Python
 - Create 2 Games from any of the four games given: 
 Tic-Tac-Toe, 
 Snake-Game,
 Connect Four,
 Tetris
-- Keep Proper Documentation
+The Task was great. The time given was the perfect time to complete it. I enjoyed it very much.
 
 ## Task 2
