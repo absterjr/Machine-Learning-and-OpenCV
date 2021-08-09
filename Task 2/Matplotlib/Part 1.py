@@ -26,6 +26,7 @@ plt.legend()
 
 plt.tight_layout()
 
+plt.grid(True)
 plt.savefig('plot.png')
 
 plt.show()
