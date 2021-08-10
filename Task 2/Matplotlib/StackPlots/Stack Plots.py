@@ -19,7 +19,7 @@ plt.legend(loc=(0.07, 0.05))
 plt.title("My Awesome Stack Plot")
 plt.tight_layout()
 plt.show()
-plt.savefig(Stack.png)
+plt.savefig('Stack.png')
 # Colors:
 # Blue = #008fd5
 # Red = #fc4f30
