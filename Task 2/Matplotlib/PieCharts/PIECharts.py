@@ -13,4 +13,4 @@ plt.pie(slices, labels=labels, explode=explode, shadow=True,
 plt.title("My Awesome Pie Chart")
 plt.tight_layout()
 plt.show()
-plt.savefig(Pie.png)
+plt.savefig('Pie.png')
