@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 
-data = pd.read_csv('data.csv')
+data = pd.read_csv('C:\\Users\\HP\\Desktop\\Vision-AI-TaskPhase\\Task 2\\Matplotlib\\Fill_Betweens\\data.csv')
 ages = data['Age']
 dev_salaries = data['All_Devs']
 py_salaries = data['Python']
