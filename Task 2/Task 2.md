@@ -4,3 +4,9 @@
   
 2. Pandas Tutorial
   In this video we walk through many of the fundamental concepts to use the Python Pandas Data Science Library, also at different ways to read a file, column, rows, specified cell etc. Then move on to some other ways to sort and filter data and also make some conditional changes to our data.
+
+3. Matplotlib
+  Learn about how to plot different types of graphs, label their axes, change the color of the graphs, give heading to the graph, add a legend and much more.
+  
+  4. Scikit-Learn
+     
