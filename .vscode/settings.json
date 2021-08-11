@@ -15,5 +15,6 @@
   "C_Cpp_Runner.cppStandard": "",
   "C_Cpp_Runner.excludeSearch": [],
   "C_Cpp_Runner.enableWarnings": true,
-  "C_Cpp_Runner.warningsAsError": false
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp.default.compilerPath": "c:\\Users\\HP\\.vscode\\extensions\\bartmanabyss.amiga-debug-1.0.0\\bin\\opt\\bin\\m68k-amiga-elf-gcc.exe"
 }
