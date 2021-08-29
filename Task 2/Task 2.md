@@ -9,4 +9,4 @@
   Learn about how to plot different types of graphs, label their axes, change the color of the graphs, give heading to the graph, add a legend and much more.
   
   4. Scikit-Learn:
-     
+     Learn about Machine Learning, how to train different models, Linear Regression, KNN, KMeans, Neural Networks and make a Hand Digits Recognizer.
