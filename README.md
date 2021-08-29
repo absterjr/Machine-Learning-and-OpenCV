@@ -18,3 +18,5 @@ NumPy - Learn about different applications of NumPy
 Pandas- Working with large data and different functions we can use to sort and filter the data
 
 Matplotlib - Learning about how to plot different types of graphs
+
+Open CV - Learn about computer vision and its real time applications along with its use in ML
