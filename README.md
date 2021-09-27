@@ -20,3 +20,20 @@ Pandas- Working with large data and different functions we can use to sort and f
 Matplotlib - Learning about how to plot different types of graphs
 
 Open CV - Learn about computer vision and its real time applications along with its use in ML
+
+
+## Task 3
+
+Complete the Deep Learning Specialization which  include the following courses-
+
+Neural Networks and Deep Learning - https://coursera.org/share/efad24169c0319c2e095c67a5a490d18
+
+Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - https://coursera.org/share/a930e4eabd681b5509168a64defbd4a3
+
+Structuring Machine Learning Projects - https://coursera.org/share/350d6920658c15324fbdfef5a524efc7
+
+Convolutional Neural Networks - https://coursera.org/share/69bff3241d5f2da9ffb57e5e5653ba1b
+
+Sequence Models - 
+
+Specialization Certificate -
