@@ -34,6 +34,6 @@ Structuring Machine Learning Projects - https://coursera.org/share/350d6920658c1
 
 Convolutional Neural Networks - https://coursera.org/share/69bff3241d5f2da9ffb57e5e5653ba1b
 
-Sequence Models - 
+Sequence Models - https://coursera.org/share/39853f62c2e415719cb1541df1c47d3b
 
-Specialization Certificate -
+Specialization Certificate - https://coursera.org/share/a76563d9d6fba695960ef0e82ed31b14
