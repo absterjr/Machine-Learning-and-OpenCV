@@ -1,5 +1,5 @@
-# Vision-AI-TaskPhase
-This README.md is for TaskPhase at VISION
+# AI
+
 
 ## Task 1
 - Finish a Crash Course on Python
