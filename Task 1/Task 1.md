@@ -13,4 +13,3 @@ Tutorial on how to use Pygame was done from multiple sources such as Youtube and
 ![image](https://user-images.githubusercontent.com/34205435/127549808-f223c166-15f5-4f58-8fa2-36d3fc627815.png)
 ![image](https://user-images.githubusercontent.com/34205435/127549897-457772a8-0028-4d03-8d57-f2668899830e.png)
 
-Although creating the games took a long time it was fun and I got to learn some new things.
