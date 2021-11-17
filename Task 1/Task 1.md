@@ -1,8 +1,3 @@
-- Complete The Course - "Crash Course on Python" by Google
-Link to Certificate : [https://coursera.org/share/87595f4893e2bc176feb519b54758b0c]
-The Course helped me learn new things that we can do with python as well as helped me brush up some of the old topics that I had previously learned.
-
-
 
 - Create 2 Games from any of the four games given: Tic-Tac-Toe, Snake-Game, Connect Four, Tetris
 The games made were 
