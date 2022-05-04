@@ -7,4 +7,4 @@
 
   
 ## 3. Scikit-Learn:
-     Learn about Machine Learning, how to train different models, Linear Regression, KNN, KMeans, Neural Networks and make a Hand Digits Recognizer.
+  Learn about Machine Learning, how to train different models, Linear Regression, KNN, KMeans, Neural Networks and make a Hand Digits Recognizer.
