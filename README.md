@@ -6,7 +6,7 @@
 Contains games made in Python using Pygame.
 
 
-## Data Analytics https://github.com/absterjr/AI/tree/main/Data%20Analytics(Numpy%2C%20Pandas%2C%20etc.)
+## [Data Analytics] {https://github.com/absterjr/AI/tree/main/Data%20Analytics(Numpy%2C%20Pandas%2C%20etc.)}
 
 NumPy - Learn about different applications of NumPy
 Pandas- Working with large data and different functions we can use to sort and filter the data
