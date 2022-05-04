@@ -1,12 +1,10 @@
-1. NumPy Tutorial:
+## 1. NumPy 
   It shows how NumPy is different from lists. It also has Contiguous Memory. Multiple Applications which includes Mathematics, Plotting, Backend, Machine Learning etc.
   It gives a brief description of what it is and how it can be used. At the end was a small quiz, recap of how indexing is done.
   
-2. Pandas Tutorial:
+## 2. Pandas Tutorial:
   In this video we walk through many of the fundamental concepts to use the Python Pandas Data Science Library, also at different ways to read a file, column, rows, specified cell etc. Then move on to some other ways to sort and filter data and also make some conditional changes to our data.
 
-3. Matplotlib:
-  Learn about how to plot different types of graphs, label their axes, change the color of the graphs, give heading to the graph, add a legend and much more.
   
-  4. Scikit-Learn:
+## 3. Scikit-Learn:
      Learn about Machine Learning, how to train different models, Linear Regression, KNN, KMeans, Neural Networks and make a Hand Digits Recognizer.
