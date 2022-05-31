@@ -1,4 +1,4 @@
-# AI
+# Machine Learning and OpenCV
 
 
 ## [Pygames](https://github.com/absterjr/AI/tree/main/PyGames)
